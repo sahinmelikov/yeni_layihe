@@ -1,0 +1,88 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;}
+.h12{
+height: 12vh;}
+.h30{
+height:70vh;}
+.h100{
+height: 100vh;}
+.h80{
+height: 80vh;}
+.img{
+width: 4cm;
+height: 100%;
+}
+.mrar{
+color: #f9a533;}
+.black{
+color: black;}
+a{
+transition: 0.5s;
+color: white;}
+nav ul a:hover{
+background-color: #f9a533;
+color:black;}
+.white{
+background-color: rgb(182, 182, 182);}
+.cl{
+background-color: #3f3f3f;}
+.img-opsi{
+background-image: url(istockphoto-183545763-612x612.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;}
+.kia{
+border: 1px solid white;
+transition: 0.5s;}
+.kia:hover{
+transform:scale(1.1);}
+.car{
+font-size: 50px;
+color:black;}
+.car-1{
+    font-size: 50px;
+    color:rgb(255, 255, 255);}
+.card-car img:hover{
+transform: scale(1.1);}
+.hvr{
+transition: 0.5s;}
+.card-car{
+width: 28%;
+height: 12cm;
+background-color: white;
+transition: 1s;
+border: 1px solid black;
+}
+
+.btn-car{
+border: none;
+background-color: #880000a8;
+color: white;
+}
+.family{
+font-family:Wide Latin;
+}
+
+.rent-car{
+width: 100%;
+height: 90vh;}
+.sahin{
+width: 15cm;
+height: 15cm;}
+.sahin-color{
+color: rgb(255, 0, 0);}
+.yazi{
+width: 16cm;
+height: 10cm;
+}
+.white-footer{
+color: white;}
+.icon-size{
+font-size: 30px;
+}
+.padd{
+    padding-left: 20px;}
+.ft{
+background-color: #18181a;}
